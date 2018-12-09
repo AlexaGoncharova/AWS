@@ -1,1 +1,1 @@
-My AWS courses. Test for git. test2. test3.
+My AWS courses.
